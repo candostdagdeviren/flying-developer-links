@@ -1,6 +1,7 @@
 # flying-developer-links
 To save some cool developer stuff.
 
+- [Memory Management Reference](http://www.memorymanagement.org/) - 05.05.2017
 - [How to Improve Your GitHub README](http://blog.patrickbalestra.com/post/156487921566/how-to-improve-your-github-readme) - 05.02.2017
 - [Regex Hub - Useful Regex Patterns](https://projects.lukehaas.me/regexhub/) - 25.11.2016
 - [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out) - 01.11.2016
