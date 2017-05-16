@@ -1,6 +1,7 @@
 # flying-developer-links
 To save some cool developer stuff.
 
+- [Redux's store vs React's state - How to choose?](https://github.com/reactjs/redux/issues/1287) - 16.05.2017
 - [Coding Best Practices Part 1 (Naming Conventions & Class Designing Principles)](https://dev.to/mohitrajput987/coding-best-practices-part-1-naming-conventions--class-designing-principles) - 05.05.2017
 - [Memory Management Reference](http://www.memorymanagement.org/) - 05.05.2017
 - [How to Improve Your GitHub README](http://blog.patrickbalestra.com/post/156487921566/how-to-improve-your-github-readme) - 05.02.2017
