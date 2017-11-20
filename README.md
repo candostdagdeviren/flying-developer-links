@@ -1,6 +1,7 @@
 # flying-developer-links
 To save some cool developer stuff.
 
+- [Critical Algorithm Studies: a Reading List](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/) - 20.11.2017
 - [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/) - 20.06.2017
 - [Redux's store vs React's state - How to choose?](https://github.com/reactjs/redux/issues/1287) - 16.05.2017
 - [Coding Best Practices Part 1 (Naming Conventions & Class Designing Principles)](https://dev.to/mohitrajput987/coding-best-practices-part-1-naming-conventions--class-designing-principles) - 05.05.2017
