@@ -1,6 +1,7 @@
 # flying-developer-links
 To save some cool developer stuff.
 
+- [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english) - 13.12.2017
 - [Critical Algorithm Studies: a Reading List](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/) - 20.11.2017
 - [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/) - 20.06.2017
 - [Redux's store vs React's state - How to choose?](https://github.com/reactjs/redux/issues/1287) - 16.05.2017
