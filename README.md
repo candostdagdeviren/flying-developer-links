@@ -1,6 +1,7 @@
 # flying-developer-links
 To save some cool developer stuff.
 
+- [Technically Speaking](https://tinyletter.com/techspeak/archive) - 02.01.2018
 - [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english) - 13.12.2017
 - [Critical Algorithm Studies: a Reading List](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/) - 20.11.2017
 - [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/) - 20.06.2017
