@@ -1,6 +1,8 @@
 # flying-developer-links
 To save some cool developer stuff.
 
+## Posts
+
 - [Let’s talk about self-documenting code](https://www.sicpers.info/2018/04/lets-talk-about-self-documenting-code/) - 05.05.2018
 - [Technically Speaking](https://tinyletter.com/techspeak/archive) - 02.01.2018
 - [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english) - 13.12.2017
@@ -18,3 +20,6 @@ To save some cool developer stuff.
 - [Oh shit, git!](http://ohshitgit.com/)
 - [How to recover dropped stash in Git - Stackoverflow](http://stackoverflow.com/questions/89332/how-to-recover-a-dropped-stash-in-git)
 
+## Tools, libraries, frameworks
+
+- [Lint-staged](https://github.com/okonet/lint-staged) - 03.02.2019
